@@ -1,0 +1,19 @@
+# Virtual Environment & Python cache
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large Datasets & Model Checkpoints
+*.csv
+*.pcap
+*.pt
+*.pth
+data/
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
